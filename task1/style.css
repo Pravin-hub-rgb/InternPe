@@ -33,7 +33,6 @@
   color: #333333; /* Dark gray color */
   cursor: pointer;
   margin: 10px;
-  transition: background-color 0.3s ease-in-out; /* Smooth transition */
 }
 .hover-effect:hover {
   box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.3), 0px 0px 15px rgba(0, 0, 0, 0.4); /* Darker shadow on hover */
